@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644705443 source:c:\users\asus\onedrive\masaüstü\github\iki_dizi_arasindan_ortaklari_secmek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
